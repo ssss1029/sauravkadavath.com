@@ -16,17 +16,19 @@
 
 	</head>
 	<body>
+	<!--  Removing the sidr for now. Trying to make the look more clean 
 		<div id="sidr">
-		  <!-- Your content -->
 		  <ul>
 		    <li><a href="#"><i class="glyphicon glyphicon-console" aria-hidden="true"> </i>Projects</a></li>
 		    <li><a href="Resume_SauravK.pdf" target="_blank"><i class="glyphicon glyphicon-list-alt" aria-hidden="true"> </i>Resume</a></li>
   		    <li><a href="mailto:sauravkadavath@berkeley.edu"><i class="glyphicon glyphicon-envelope" aria-hidden="true"> </i>Email</a></li>
 		  </ul>
 		</div>
-
+	-->
 		<div class="navigation">
 			<div class="row">
+				
+				<!-- Removing the sidr for now. Trying to make the look more clean 
 				<a id="simple-menu" href="#sidr">
 	  				<div class="col-xs-3 col-md-2 navIcon">
 	  					<div class="navWordsWrapper">
@@ -34,7 +36,9 @@
 	  					</div>
 	  				</div>
 				</a>
-  				<div class="col-xs-9 col-md-10 navMain">
+				-->
+
+  				<div class="col-xs-12 col-md-12 navMain">
 	  				<h2>
 	  					Saurav Kadavath
 	  				</h2>
