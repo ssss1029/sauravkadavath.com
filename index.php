@@ -7,10 +7,13 @@
 	    <link rel="stylesheet" href="css/sidr.css">
 	    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="css/main.css" />
+		<link href="https://fonts.googleapis.com/css?family=Yesteryear" rel="stylesheet">
+
 
 		<!-- JS -->
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
 		<!--  Removing the sidr for now. Trying to make the look more clean 
 		<script src="//cdn.jsdelivr.net/jquery.sidr/2.2.1/jquery.sidr.min.js"></script>
 		-->
@@ -47,7 +50,7 @@
 		  					Saurav Kadavath
 		  				</h2>
 		  				<h3 class="titleH3">
-		  					Student <span class="circle"></span> Software Developer <span class="circle"></span> Innovator
+		  					Developer <span class="circle"></span> Student <span class="circle"></span> Innovator
 		  				</h3>
 	  				</div>
   				</div>
