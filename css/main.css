@@ -9,21 +9,62 @@
 	text-align: center;
 }
 
-.navMain {
-	background-color: #03A678;
-	vertical-align: middle;
+.img-circle {
+	border-radius: 50%;
 }
 
-.navMain h2 {
+.pfp {
+	width: 250px;
+}
+
+.navMain {
+	text-align: center;
+	background-color: #03A678;
+	vertical-align: middle;
+	height: 600px;
+	/* https://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working */
+	/* Internet Explorer 10 */ 
+	display:-ms-flexbox;
+	-ms-flex-pack:center;
+	-ms-flex-align:center;
+
+	/* Firefox */
+	display:-moz-box;
+	-moz-box-pack:center;
+	-moz-box-align:center;
+
+	/* Safari, Opera, and Chrome */
+	display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-align:center;
+
+	/* W3C */
+	display:box;
+	box-pack:center;
+	box-align:center;
+
+}
+
+.titleH2 {
 	font-family: 'Titillium Web', sans-serif;
-	margin-top: 10px;
+	margin-top: 25px;
+	vertical-align: middle;
+	font-size: 30px;
+}
+
+.circle:before {
+  content: ' \25CF';
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+.titleH3 {
+	font-size: 25px;
 }
 
 .navIcon {
-	height: 60px;
-}
-
-.navMain {
 	height: 60px;
 }
 

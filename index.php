@@ -39,9 +39,18 @@
 				-->
 
   				<div class="col-xs-12 col-md-12 navMain">
-	  				<h2>
-	  					Saurav Kadavath
-	  				</h2>
+  					<div class="innerMain">
+  						<img class="pfp img-circle" src="img/dummypfp.png" />
+		  				<h2 class="titleH2">
+		  					Saurav Kadavath
+		  				</h2>
+		  				<h3 class="titleH3">
+		  					Student <span class="circle"></span> Software Developer <span class="circle"></span> Innovator
+		  				</h3>
+		  				<h3 class="titleH3"> 
+		  				UC Berkeley Class of 2020 
+		  				</h3>
+	  				</div>
   				</div>
   			</div>
 		</div>
@@ -97,7 +106,7 @@
 									<p> Websites </p>
 								</div>
 								<div class='col-md-12 highlightInfo'>
-									<p> I have worked on multiple websites for different organizations, including ATB Academy (a local afterschool academy), EzPzDay (a small startup in SF), and Senior Personal Emergency Preparedness (a club at my old high school). The projects have involved technologies including Wordpress, jQuery, AJAX, OAuth, PHP, and much more.</p>
+									<p> I have worked on multiple websites for different organizations, including ATB Academy (a local afterschool academy), EzPzDay (a startup in SF), and Senior Personal Emergency Preparedness (a club at my old high school). The projects have involved technologies including Wordpress, jQuery, AJAX, OAuth, PHP, and much more.</p>
 								</div>
 							</div>
 							<div class='col-md-6 light img_col atbImg'>
