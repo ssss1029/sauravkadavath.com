@@ -11,7 +11,9 @@
 		<!-- JS -->
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+		<!--  Removing the sidr for now. Trying to make the look more clean 
 		<script src="//cdn.jsdelivr.net/jquery.sidr/2.2.1/jquery.sidr.min.js"></script>
+		-->
 		<script src="js/main.js"></script>
 
 	</head>
@@ -46,9 +48,6 @@
 		  				</h2>
 		  				<h3 class="titleH3">
 		  					Student <span class="circle"></span> Software Developer <span class="circle"></span> Innovator
-		  				</h3>
-		  				<h3 class="titleH3"> 
-		  				UC Berkeley Class of 2020 
 		  				</h3>
 	  				</div>
   				</div>

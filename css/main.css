@@ -1,7 +1,11 @@
 .navigation {
-	width: 100%
-	position:fixed;
-	background-color: #019875;
+	background-color: #03A678;
+	background-image: url("../img/landscape1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: auto auto;
+	width: 99.5%;
 }
 
 .navIcon {
@@ -19,9 +23,8 @@
 
 .navMain {
 	text-align: center;
-	background-color: #03A678;
 	vertical-align: middle;
-	height: 600px;
+	height: 700px;
 	/* https://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working */
 	/* Internet Explorer 10 */ 
 	display:-ms-flexbox;
@@ -43,6 +46,11 @@
 	box-pack:center;
 	box-align:center;
 
+}
+
+.innerMain {
+	background-color: rgba(255, 255, 255, 0.4);
+	padding: 30px;
 }
 
 .titleH2 {
@@ -422,9 +430,5 @@ body {
 
 	.footerLeft {
 		padding-left: 0px;
-	}
-
-	.footerRight {
-		width: 
 	}
 }
