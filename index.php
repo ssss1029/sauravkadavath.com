@@ -49,9 +49,11 @@
 		  				<h2 class="titleH2">
 		  					Saurav Kadavath
 		  				</h2>
+						<!-- 
 		  				<h3 class="titleH3">
 		  					Developer <span class="circle"></span> Student <span class="circle"></span> Innovator
 		  				</h3>
+						-->
 	  				</div>
   				</div>
   			</div>
